@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/coca-cola-animation/static/css/main.a475d880.chunk.css",
+    "main.js": "/coca-cola-animation/static/js/main.c0663585.chunk.js",
+    "main.js.map": "/coca-cola-animation/static/js/main.c0663585.chunk.js.map",
+    "runtime-main.js": "/coca-cola-animation/static/js/runtime-main.9bf46842.js",
+    "runtime-main.js.map": "/coca-cola-animation/static/js/runtime-main.9bf46842.js.map",
+    "static/js/2.4b4fbc4e.chunk.js": "/coca-cola-animation/static/js/2.4b4fbc4e.chunk.js",
+    "static/js/2.4b4fbc4e.chunk.js.map": "/coca-cola-animation/static/js/2.4b4fbc4e.chunk.js.map",
+    "static/js/3.3e4dba6b.chunk.js": "/coca-cola-animation/static/js/3.3e4dba6b.chunk.js",
+    "static/js/3.3e4dba6b.chunk.js.map": "/coca-cola-animation/static/js/3.3e4dba6b.chunk.js.map",
+    "index.html": "/coca-cola-animation/index.html",
+    "static/css/main.a475d880.chunk.css.map": "/coca-cola-animation/static/css/main.a475d880.chunk.css.map",
+    "static/js/2.4b4fbc4e.chunk.js.LICENSE.txt": "/coca-cola-animation/static/js/2.4b4fbc4e.chunk.js.LICENSE.txt",
+    "static/media/coca-cola-2.119e9eb7.svg": "/coca-cola-animation/static/media/coca-cola-2.119e9eb7.svg",
+    "static/media/coca-cola-3.bc2f10de.svg": "/coca-cola-animation/static/media/coca-cola-3.bc2f10de.svg",
+    "static/media/coca-cola-4.df9243c8.svg": "/coca-cola-animation/static/media/coca-cola-4.df9243c8.svg",
+    "static/media/coca-cola-logo.ee4448d7.svg": "/coca-cola-animation/static/media/coca-cola-logo.ee4448d7.svg",
+    "static/media/coca-cola.6e0397b4.svg": "/coca-cola-animation/static/media/coca-cola.6e0397b4.svg",
+    "static/media/next-bg.c6121da8.svg": "/coca-cola-animation/static/media/next-bg.c6121da8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bf46842.js",
+    "static/js/2.4b4fbc4e.chunk.js",
+    "static/css/main.a475d880.chunk.css",
+    "static/js/main.c0663585.chunk.js"
+  ]
+}
